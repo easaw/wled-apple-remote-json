@@ -31,6 +31,6 @@ You will probably only need 1 or 2 hex codes for left/ right.
 ```
 
 
-## **Don't forget, you MUST get your own 24-bit hex codes e.g. '0x4797D31B' This JSON won't work for you as-is.**
+### **Don't forget, you MUST get your own 24-bit hex codes e.g. '0x4797D31B' This JSON won't work for you as-is.**
 
 If you want to view the codes on a seperate ESP32, you can ttry this code: https://github.com/sway/arduino-apple-remote
