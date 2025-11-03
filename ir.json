@@ -1,0 +1,15 @@
+{
+  "desc": "Apple Remote v1 - Presets",
+  "0x77E12047": { "label": "play","cmnt": "Play/Pause", "cmd": {"ps":"1~4~r"} },
+  "0x7A7028F": { "label": "play","cmnt": "Play/Pause", "cmd": {"ps":"1~4~r"} },
+  "0x40250A2D": { "label": "play","cmnt": "Play/Pause", "cmd": {"ps":"1~4~r"} },
+  "0xB8144E4B": { "label": "menu", "cmnt": "On/Off", "cmd": {"on":"t"} },
+  "0x77E14047": { "label": "menu", "cmnt": "On/Off", "cmd": {"on":"t"} },
+  "0xA72A9664": { "label": "menu", "cmnt": "On/Off", "cmd": {"on":"t"} },
+  "0x77E1B047": { "label": "decrease", "cmnt": "Brightness -50", "cmd": "A=~-30" },
+  "0x77E1D047": { "label": "increase", "cmnt": "Brightness +50", "cmd": "A=~+30" },
+  "0xD790F0D8": { "label": "down", "cmnt": "Brightness -", "cmd": {"bri":"~-30"} },
+  "0x75803297": { "label": "down", "cmnt": "Brightness -", "cmd": {"bri":"~-30"} },
+  "0xFEA6EDF3": { "label": "up", "cmnt": "Brightness +", "cmd": {"bri":"~+30"} },
+  "0xC7C0EC40": { "label": "up", "cmnt": "Brightness +", "cmd": {"bri":"~+30"} }
+}
